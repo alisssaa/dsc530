@@ -1,5 +1,5 @@
 # DSC 530
-# Week 2 Assignment: Python Review
+# Week 2 Assignment: Preparing for Exploratory Data Analysis
 # Author: Alissa Trujillo
 # June 14, 2022
 
